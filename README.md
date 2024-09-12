@@ -1,7 +1,8 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
 </div>
-[![TypingSVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&pause=500&width=435&lines=Welcome!;My+Repositorie%F0%9F%98%8E)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <h3 align="center">developer for fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skidy89&label=Profile%20views&color=004875&style=flat" alt="skidy89" /> </p>
