@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&pause=500&width=435&lines=Welcome!;My+Repositorie%F0%9F%98%8E)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&pause=500&width=435&lines=Welcome!;My+Repositorie%F0%9F%98%8E)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?font=Abril+Fatface&pause=500&lines=Welcome!;My+Repositorie%F0%9F%98%8E)
 <h3 align="center">developer for fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skidy89&label=Profile%20views&color=004875&style=flat" alt="skidy89" /> </p>
